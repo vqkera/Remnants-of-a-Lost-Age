@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "text": "Discoveries",
+    "color": "green",
+    "bold": true
+  },
+  "external_title": {
+    "text": "Discoveries"
+  },
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "Every ordinary archetype has three distinct states: Preserved, Decayed, and Ancient Remains. Each unique state you visit counts once toward Expedition Progress.",
+        "color": "gray"
+      },
+      "width": 310
+    }
+  ],
+  "columns": 1,
+  "actions": [
+    {
+      "label": {
+        "text": "Small Ruins"
+      },
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger e_menu set 2"
+      }
+    },
+    {
+      "label": {
+        "text": "Medium Ruins"
+      },
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger e_menu set 3"
+      }
+    },
+    {
+      "label": {
+        "text": "Echo Zones / Catastrophe Sites"
+      },
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger e_menu set 4"
+      }
+    }
+  ]
+}

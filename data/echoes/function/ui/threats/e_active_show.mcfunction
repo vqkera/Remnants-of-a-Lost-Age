@@ -1,0 +1,1 @@
+$dialog show @s {type:"minecraft:notice",title:{text:"ANOMALOUS SIGNAL DETECTED",color:"dark_purple",bold:true},body:[{type:"minecraft:plain_message",width:350,contents:{text:"[DEFEATED] The Warden of Ages\n[DEFEATED] The Fossil\n[UNLOCKED] The Echo\n\nOrigin: Unknown\nEstimated Distance: $(sig) blocks\nSignal Integrity: $(sigi)%",color:"gray"}}]}

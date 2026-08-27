@@ -1,0 +1,1 @@
+dialog show @s {type:"minecraft:notice",title:{text:"Threats",color:"red",bold:true},body:[{type:"minecraft:plain_message",width:360,contents:{text:"[LOCKED] The Warden of Ages — discover 15 unique ruin variants.\n[LOCKED] The Fossil — discover 30 unique ruin variants.\n[UNKNOWN] The Echo",color:"gray"}}]}

@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 14,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 14"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Temple record: the deep signal repeats every 24000 ticks. It is too regular for nature. The priests changed the subject when I asked who was answering.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

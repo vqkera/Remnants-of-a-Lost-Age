@@ -1,0 +1,1710 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 1,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 01"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The valley was empty when the first surveyors arrived. They wrote that the stone below sang when struck, although none could agree on the note.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 2,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 02"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "We raised the first hall beside the river. No banner yet, no king, only twelve families and the promise that every door would remain open.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 3,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 03"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Engineer Sael insists the blue ore is not ore at all. It grows toward sound. We laughed until a vein turned toward the bell tower overnight.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 4,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 04"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The council named our settlement Aster. The oldest map shows no road leading here, yet we found a road beneath the soil on our first winter.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 5,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 05"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Children hear voices in the quarry after rain. The priests call it wind. The miners refuse the night shift and leave lanterns burning at the gate.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 6,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 06"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "A machine can remember pressure, heat, motion. Master Orin asks a stranger question: can stone remember fear? Funding was approved unanimously.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 7,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 07"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The first archive opened today. Every citizen may leave one page for those who come after us. I wrote only: We were here, and we hoped.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 8,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 08"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Three watchtowers now mark the northern ridge. Their foundations uncovered older foundations, aligned to stars our astronomers do not recognize.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 9,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 09"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The experiment produced a pulse beneath the laboratory. For six seconds every compass pointed downward. The report calls the result 'promising.'",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 10,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 10"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "There is no evidence of a civilization before ours. This sentence appears in the official history. In the margin, someone has written: Then who built the road?",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 11,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 11"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Aster is no longer a village. Roads reach the coast, mines cut the mountains, and caravans return with machines copied from half-understood ruins.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 12,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 12"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The Workshop Guild can now bind memory-stone to copper. Doors open for their owners. Lamps answer spoken names. The public calls it magic; we do not.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 13,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 13"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "New settlements request guardians. The council approved autonomous sentries after the third raid. Their first directive is elegantly simple: Protect the village.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 14,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 14"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Temple record: the deep signal repeats every 24000 ticks. It is too regular for nature. The priests changed the subject when I asked who was answering.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 15,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 15"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Production doubled after the lower mine opened. So did disappearances. Management blames unstable tunnels. The tunnels are intact.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 16,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 16"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "I watched a guardian remain at its post for nine days without rest. When ordered to stand down, it asked which citizen had issued the command. We had no answer.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 17,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 17"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Archive memorandum: contradictory records are not to be destroyed. A lie preserved beside the truth may become evidence later.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 18,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 18"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The southern farms failed, then recovered in a single night. Crops nearest the buried conduit grew silver at the roots. They were burned before sunrise.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 19,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 19"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "We found an animal sealed in stone far below the mine, larger than any living ravager. The excavation team nicknamed it the Fossil. The chamber is now restricted.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 20,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 20"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Official bulletin: rumors of voices, altered wildlife, and memory loss are enemy fabrications. Citizens are reminded that unauthorized excavation is treason.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 21,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 21"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The western city refused to surrender its resonance engines. By dawn both sides had activated weapons that no one fully understood.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 22,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 22"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Battle report: arrows reversed direction in midair near Site Seven. Survivors insist the ground learned their tactics after each assault.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 23,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 23"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The guardians were never designed for war. We changed their orders anyway. Some accepted the new command. Some continued protecting empty streets.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 24,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 24"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "A crater appeared without an explosion. Trees at its edge were standing, leafless, their shadows burned into stone. There were no bodies inside.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 25,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 25"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The enemy calls us grave-robbers. Perhaps they are right. Every decisive invention this year came from something we found rather than something we made.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 26,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 26"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Field note: wounded soldiers near the signal report hearing conversations that happened years earlier. One man answered his dead mother for an hour.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 27,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 27"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "We deployed the mirror array at dusk. At midnight the sky above the battlefield repeated the sunset three times. Command declared the test successful.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 28,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 28"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Orders from the capital: all archives are to be copied underground. Public libraries may remain as decoys. Do not tell the scribes why.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 29,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 29"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The Fossil chamber was breached during shelling. It moved once. Every animal in the tunnel fled toward the surface before our instruments registered anything.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 30,
+                  "echoes_era": 3
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 30"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "I have served three governments in two years. Each says the others began the war. My oldest diary says we all prepared for it long before anyone fired.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 31,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 31"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The signal is everywhere now. Machines activate without power. Guardians repeat old orders. People wake with memories belonging to strangers.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 32,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 32"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Evacuation failed. The eastern road simply ended at a wall of undisturbed stone that was not there yesterday. Maps still insist the road continues.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 33,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 33"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Laboratory final log: resonance is not an energy source. It is an imprint. We have spent a century teaching the world how to remember us.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 34,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 34"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The council ordered every bell destroyed. No one recorded why. By evening, bells could still be heard from beneath the city.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 35,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 35"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "A preserved district vanished between two patrols. Foundations remain, cut cleanly at the streets. We found tables set for meals under open sky.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 36,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 36"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Guardian command audit: PRIMARY DIRECTIVE remains active. Population registry returns zero valid citizens. Threat classification therefore includes everyone.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 37,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 37"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "We tried to bury the deep machines. The deeper chambers were already open. Someone had entered from below.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 38,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 38"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The last train from the coast arrived full of ash and no passengers. Its engineer's log contains only one sentence repeated forty-three times: It remembers the route.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 39,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 39"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Emergency doctrine: do not trust a record merely because it is older. Corruption now appears retroactive. Yesterday's ink can change while you read it.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 40,
+                  "echoes_era": 4
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 40"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "If this is the final archive, let whoever finds it know: the war did not destroy us. The war only broke the locks.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 41,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 41"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "[CORRUPTED] ...not a weapon... not beneath us... the first pulse came from AFTER the collapse... chronology impossible...",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 42,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 42"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Anonymous testimony: I met myself on the northern road. He was older, carried a broken compass, and begged me not to enter Aster. I entered anyway.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 43,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 43"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Recovered propaganda sheet: THE SIGNAL IS OUR ANCESTOR. Opposition graffiti underneath: Then why is it afraid of silence?",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 44,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 44"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Fragment with no known author: The creature in stone was not buried by us. It was buried by something that knew we would eventually dig.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 45,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 45"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "[DAMAGED] ...three guardians entered the chamber... one returned... its order had changed to PROTECT THE VILLAGE FROM THE VILLAGE...",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 46,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 46"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "A map labels the capital 'Ruins of Aster' two hundred years before Aster was founded. The parchment, ink, and handwriting are all contemporary.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 47,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 47"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Someone catalogued fifty fragments before the archive collapsed. This page is numbered fifty-one. The index says fifty-one never existed.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 48,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 48"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "The Echo is not a name. It is what remained after every instrument, witness, and machine gave a different answer to the same question.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 49,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 49"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "[CORRUPTED] If you hear your own footsteps ahead of you, stop. If they stop too, run. If they continue, you are already too late.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 50,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 50"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "Final unsigned note: We wanted the past to speak. We never asked whether it wanted to be heard.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

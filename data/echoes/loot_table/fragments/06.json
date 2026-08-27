@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 6,
+                  "echoes_era": 1
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 06"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "A machine can remember pressure, heat, motion. Master Orin asks a stranger question: can stone remember fear? Funding was approved unanimously.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

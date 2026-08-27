@@ -1,0 +1,1 @@
+dialog show @s {type:"minecraft:notice",title:{text:"Threats",color:"red",bold:true},body:[{type:"minecraft:plain_message",width:350,contents:{text:"[DEFEATED] The Warden of Ages\n[DEFEATED] The Fossil\n[DEFEATED] The Echo\n\nThe archive is silent.",color:"gray"}}]}

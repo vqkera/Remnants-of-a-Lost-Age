@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 46,
+                  "echoes_era": 5
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 46"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "A map labels the capital 'Ruins of Aster' two hundred years before Aster was founded. The parchment, ink, and handwriting are all contemporary.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

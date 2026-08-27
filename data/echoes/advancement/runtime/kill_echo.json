@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:warden",
+          "nbt": "{Tags:[\"echoes_boss_echo\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "echoes:boss/echo/defeated"
+  }
+}

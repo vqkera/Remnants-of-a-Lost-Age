@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "echoes_fragment": 1,
+                  "echoes_fragment_id": 16,
+                  "echoes_era": 2
+                },
+                "minecraft:written_book_content": {
+                  "title": {
+                    "raw": "Fragment of History 16"
+                  },
+                  "author": "Remnants of a Lost Age",
+                  "generation": 0,
+                  "resolved": true,
+                  "pages": [
+                    {
+                      "raw": {
+                        "text": "I watched a guardian remain at its post for nine days without rest. When ordered to stand down, it asked which citizen had issued the command. We had no answer.",
+                        "color": "dark_gray"
+                      }
+                    }
+                  ]
+                },
+                "minecraft:rarity": "uncommon"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

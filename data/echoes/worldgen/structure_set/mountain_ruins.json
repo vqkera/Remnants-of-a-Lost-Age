@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "echoes:ancient_mine",
+      "weight": 3
+    },
+    {
+      "structure": "echoes:ancient_fortress",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 8,
+    "salt": 17392114
+  }
+}

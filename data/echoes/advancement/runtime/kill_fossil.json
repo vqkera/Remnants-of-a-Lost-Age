@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:ravager",
+          "nbt": "{Tags:[\"echoes_boss_fossil\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "echoes:boss/fossil/defeated"
+  }
+}

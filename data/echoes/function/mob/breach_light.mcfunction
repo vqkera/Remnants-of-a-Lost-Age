@@ -1,0 +1,12 @@
+execute if block ~1 ~0 ~0 #echoes:ancient_breakable run setblock ~1 ~0 ~0 minecraft:air destroy
+execute if block ~-1 ~0 ~0 #echoes:ancient_breakable run setblock ~-1 ~0 ~0 minecraft:air destroy
+execute if block ~0 ~0 ~1 #echoes:ancient_breakable run setblock ~0 ~0 ~1 minecraft:air destroy
+execute if block ~0 ~0 ~-1 #echoes:ancient_breakable run setblock ~0 ~0 ~-1 minecraft:air destroy
+execute if block ~1 ~1 ~0 #echoes:ancient_breakable run setblock ~1 ~1 ~0 minecraft:air destroy
+execute if block ~-1 ~1 ~0 #echoes:ancient_breakable run setblock ~-1 ~1 ~0 minecraft:air destroy
+execute if block ~0 ~1 ~1 #echoes:ancient_breakable run setblock ~0 ~1 ~1 minecraft:air destroy
+execute if block ~0 ~1 ~-1 #echoes:ancient_breakable run setblock ~0 ~1 ~-1 minecraft:air destroy
+execute if block ~1 ~2 ~0 #echoes:ancient_breakable run setblock ~1 ~2 ~0 minecraft:air destroy
+execute if block ~-1 ~2 ~0 #echoes:ancient_breakable run setblock ~-1 ~2 ~0 minecraft:air destroy
+execute if block ~0 ~2 ~1 #echoes:ancient_breakable run setblock ~0 ~2 ~1 minecraft:air destroy
+execute if block ~0 ~2 ~-1 #echoes:ancient_breakable run setblock ~0 ~2 ~-1 minecraft:air destroy

@@ -1,0 +1,12 @@
+# V12: rare Echo reposition. One attempt every random 20-60 seconds.
+tag @a remove echoes_v12_tp_target
+execute at @e[type=minecraft:marker,tag=echoes_arena_echo,sort=nearest,limit=1] positioned ~-20 ~-2 ~-19 run tag @a[dx=40,dy=22,dz=40,sort=random,limit=1] add echoes_v12_tp_target
+scoreboard players set @s e_rtest 0
+execute if entity @a[tag=echoes_v12_tp_target,limit=1] at @a[tag=echoes_v12_tp_target,limit=1] positioned ~4 ~ ~4 if block ~ ~ ~ minecraft:air if block ~ ~1 ~ minecraft:air if block ~ ~2 ~ minecraft:air if block ~ ~3 ~ minecraft:air if block ~ ~4 ~ minecraft:air unless block ~ ~-1 ~ minecraft:air unless block ~ ~-1 ~ minecraft:cave_air unless block ~ ~-1 ~ minecraft:void_air store success score @s e_rtest run tp @s ~ ~ ~
+execute if score @s e_rtest matches 0 if entity @a[tag=echoes_v12_tp_target,limit=1] at @a[tag=echoes_v12_tp_target,limit=1] positioned ~-4 ~ ~4 if block ~ ~ ~ minecraft:air if block ~ ~1 ~ minecraft:air if block ~ ~2 ~ minecraft:air if block ~ ~3 ~ minecraft:air if block ~ ~4 ~ minecraft:air unless block ~ ~-1 ~ minecraft:air unless block ~ ~-1 ~ minecraft:cave_air unless block ~ ~-1 ~ minecraft:void_air store success score @s e_rtest run tp @s ~ ~ ~
+execute if score @s e_rtest matches 0 if entity @a[tag=echoes_v12_tp_target,limit=1] at @a[tag=echoes_v12_tp_target,limit=1] positioned ~4 ~ ~-4 if block ~ ~ ~ minecraft:air if block ~ ~1 ~ minecraft:air if block ~ ~2 ~ minecraft:air if block ~ ~3 ~ minecraft:air if block ~ ~4 ~ minecraft:air unless block ~ ~-1 ~ minecraft:air unless block ~ ~-1 ~ minecraft:cave_air unless block ~ ~-1 ~ minecraft:void_air store success score @s e_rtest run tp @s ~ ~ ~
+execute if score @s e_rtest matches 0 if entity @a[tag=echoes_v12_tp_target,limit=1] at @a[tag=echoes_v12_tp_target,limit=1] positioned ~-4 ~ ~-4 if block ~ ~ ~ minecraft:air if block ~ ~1 ~ minecraft:air if block ~ ~2 ~ minecraft:air if block ~ ~3 ~ minecraft:air if block ~ ~4 ~ minecraft:air unless block ~ ~-1 ~ minecraft:air unless block ~ ~-1 ~ minecraft:cave_air unless block ~ ~-1 ~ minecraft:void_air store success score @s e_rtest run tp @s ~ ~ ~
+execute if score @s e_rtest matches 1 at @s run particle minecraft:sculk_soul ~ ~1.5 ~ 0.8 1.0 0.8 0.04 24 force @a[distance=..64]
+execute if score @s e_rtest matches 1 at @s run playsound minecraft:entity.warden.heartbeat hostile @a[distance=..64] ~ ~ ~ 1.0 0.65
+execute store result score @s e_btp run random value 400..1200
+tag @a remove echoes_v12_tp_target

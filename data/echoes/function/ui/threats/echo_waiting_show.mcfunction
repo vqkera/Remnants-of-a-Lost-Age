@@ -1,0 +1,1 @@
+$dialog show @s {type:"minecraft:notice",title:{text:"Threats",color:"red",bold:true},body:[{type:"minecraft:plain_message",width:380,contents:{text:"[DEFEATED] The Warden of Ages\n[DEFEATED] The Fossil\n[LOCKED] The Echo — $(disc) / 40 ruin variants discovered.",color:"gray"}}]}

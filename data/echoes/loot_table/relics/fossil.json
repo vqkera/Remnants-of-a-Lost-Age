@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": {
+                  "text": "Fossil Aegis",
+                  "color": "aqua",
+                  "italic": false,
+                  "bold": true
+                },
+                "minecraft:lore": [
+                  {
+                    "text": "Use: awaken the Fossil's ancient defensive shell.",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Grants Resistance V for 60 seconds.",
+                    "color": "aqua",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Aegis remains in its slot while recharging.",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Cooldown: 20 minutes.",
+                    "color": "dark_gray",
+                    "italic": false
+                  }
+                ],
+                "minecraft:custom_data": {
+                  "echoes_relic": "fossil",
+                  "remnants_v11": 1
+                },
+                "minecraft:rarity": "epic",
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_model": "minecraft:heart_of_the_sea",
+                "minecraft:max_stack_size": 1,
+                "minecraft:unbreakable": {}
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

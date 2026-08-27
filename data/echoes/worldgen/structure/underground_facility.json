@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#echoes:land_overworld",
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "bury",
+  "start_pool": "echoes:underground_facility",
+  "size": 1,
+  "start_height": {
+    "absolute": -24
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}

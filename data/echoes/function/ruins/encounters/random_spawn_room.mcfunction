@@ -1,0 +1,13 @@
+execute store result score @s e_rand run random value 1..12
+execute if score @s e_rand matches 1 run function echoes:mob/spawn/soldier
+execute if score @s e_rand matches 2 run function echoes:mob/spawn/archer
+execute if score @s e_rand matches 3 run function echoes:mob/spawn/guardian
+execute if score @s e_rand matches 4 run function echoes:mob/spawn/brute
+execute if score @s e_rand matches 5 run function echoes:mob/spawn/seer
+execute if score @s e_rand matches 6 run function echoes:mob/spawn/praetorian
+execute if score @s e_rand matches 7 run function echoes:mob/spawn/scribe
+execute if score @s e_rand matches 8 run function echoes:mob/spawn/lancer
+execute if score @s e_rand matches 9 run function echoes:mob/spawn/scavenger
+execute if score @s e_rand matches 10 run function echoes:mob/spawn/sentinel
+execute if score @s e_rand matches 11 run function echoes:mob/spawn/fallen_miner
+execute if score @s e_rand matches 12 run function echoes:mob/spawn/relic_knight

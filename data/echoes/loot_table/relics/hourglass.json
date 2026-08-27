@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": {
+                  "text": "Hourglass of Ages",
+                  "color": "gold",
+                  "italic": false,
+                  "bold": true
+                },
+                "minecraft:lore": [
+                  {
+                    "text": "Use: anchors your current position for 5 seconds.",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "After 5 seconds, time returns you to the anchored point.",
+                    "color": "dark_gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Cooldown: 180 seconds",
+                    "color": "dark_aqua",
+                    "italic": false
+                  }
+                ],
+                "minecraft:custom_data": {
+                  "echoes_relic": "hourglass"
+                },
+                "minecraft:rarity": "epic",
+                "minecraft:item_model": "minecraft:goat_horn",
+                "minecraft:max_stack_size": 1,
+                "minecraft:unbreakable": {}
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

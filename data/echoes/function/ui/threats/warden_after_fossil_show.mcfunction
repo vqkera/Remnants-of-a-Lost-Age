@@ -1,0 +1,1 @@
+$dialog show @s {type:"minecraft:notice",title:{text:"Threats",color:"red",bold:true},body:[{type:"minecraft:plain_message",width:380,contents:{text:"[UNLOCKED] The Warden of Ages\nEstimated entrance: X $(whx), Z $(whz) (±20)\n\n[DEFEATED] The Fossil\n[LOCKED] The Echo — discover 40 variants and defeat both minibosses.",color:"gray"}}]}

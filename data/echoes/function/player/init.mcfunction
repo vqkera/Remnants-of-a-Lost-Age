@@ -1,0 +1,84 @@
+scoreboard players add #next_pid e_world 1
+scoreboard players operation @s e_pid = #next_pid e_world
+scoreboard players set @s e_frag 0
+scoreboard players set @s e_disc 0
+scoreboard players set @s e_er1 0
+scoreboard players set @s e_er2 0
+scoreboard players set @s e_er3 0
+scoreboard players set @s e_er4 0
+scoreboard players set @s e_er5 0
+scoreboard players set @s e_wun 0
+scoreboard players set @s e_fun 0
+scoreboard players set @s e_eun 0
+scoreboard players set @s e_wdef 0
+scoreboard players set @s e_fdef 0
+scoreboard players set @s e_edef 0
+scoreboard players set @s e_hgcd 0
+scoreboard players set @s e_ehcd 0
+scoreboard players set @s e_fdeath 0
+scoreboard players set @s e_fhand 0
+scoreboard players set @s e_frcd 0
+scoreboard players set @s e_hgt 0
+scoreboard players set @s e_owner 0
+scoreboard players set @s e_rand 0
+scoreboard players set @s e_bhp 0
+scoreboard players set @s e_bmax 0
+scoreboard players set @s e_bpct 0
+scoreboard players set @s e_btimer 0
+scoreboard players set @s e_batk 0
+scoreboard players set @s e_bsonic 0
+scoreboard players set @s e_keep_h 0
+scoreboard players set @s e_keep_f 0
+scoreboard players set @s e_keep_e 0
+scoreboard players set @s e_rph 0
+scoreboard players set @s e_rpf 0
+scoreboard players set @s e_rpe 0
+scoreboard players set @s e_stsh 0
+scoreboard players set @s e_strg 0
+scoreboard players set @s e_stme 0
+scoreboard players set @s e_stmo 0
+scoreboard players set @s e_sig 0
+scoreboard players set @s e_sigi 0
+scoreboard players set @s e_px 0
+scoreboard players set @s e_pz 0
+scoreboard players set @s e_d01 0
+scoreboard players set @s e_d02 0
+scoreboard players set @s e_d03 0
+scoreboard players set @s e_d04 0
+scoreboard players set @s e_d05 0
+scoreboard players set @s e_d06 0
+scoreboard players set @s e_d07 0
+scoreboard players set @s e_d08 0
+scoreboard players set @s e_d09 0
+scoreboard players set @s e_d10 0
+scoreboard players set @s e_d11 0
+scoreboard players set @s e_d12 0
+scoreboard players set @s e_d13 0
+scoreboard players set @s e_d14 0
+scoreboard players set @s e_d15 0
+scoreboard players set @s e_d16 0
+scoreboard players set @s e_d17 0
+scoreboard players set @s e_d18 0
+scoreboard players set @s e_d19 0
+scoreboard players set @s e_d20 0
+scoreboard players set @s e_d21 0
+scoreboard players set @s e_d22 0
+scoreboard players set @s e_d23 0
+scoreboard players set @s e_d24 0
+scoreboard players set @s e_d25 0
+scoreboard players set @s e_d26 0
+scoreboard players set @s e_d27 0
+scoreboard players set @s e_d28 0
+scoreboard players set @s e_d29 0
+scoreboard players set @s e_d30 0
+scoreboard players set @s e_d31 0
+scoreboard players set @s e_d32 0
+scoreboard players set @s e_d33 0
+scoreboard players set @s e_hguse 0
+scoreboard players add @s e_deaths 0
+scoreboard players operation @s e_dseen = @s e_deaths
+function echoes:relic/death/cache_carried
+tag @s add echoes_v13_migrated
+tag @s add echoes_initialized
+tag @s add echoes_v4_migrated
+tellraw @s {"text":"Remnants of a Lost Age awakens. Press G to open the archive.","color":"aqua"}

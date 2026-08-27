@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": [
+      101,
+      1
+    ],
+    "description": {
+      "text": "Remnants of a Lost Age V17 \u2014 stable boss-dungeon lanterns and braziers for Minecraft Java 26.1",
+      "color": "dark_aqua"
+    }
+  }
+}

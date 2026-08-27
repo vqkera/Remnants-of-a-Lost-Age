@@ -1,0 +1,80 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "text": "REMNANTS OF A LOST AGE",
+    "color": "dark_aqua",
+    "bold": true
+  },
+  "external_title": {
+    "text": "Remnants of a Lost Age",
+    "color": "aqua"
+  },
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "Explore forgotten sites, recover optional history, and trace the sealed threats.\nProgress is tracked per player.",
+        "color": "gray"
+      },
+      "width": 320
+    }
+  ],
+  "columns": 1,
+  "actions": [
+    {
+      "label": {
+        "text": "Expedition Progress",
+        "color": "gold"
+      },
+      "width": 220,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger e_menu set 1"
+      }
+    },
+    {
+      "label": {
+        "text": "Discoveries",
+        "color": "green"
+      },
+      "width": 220,
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "echoes:discoveries"
+      }
+    },
+    {
+      "label": {
+        "text": "History Archive",
+        "color": "yellow"
+      },
+      "width": 220,
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "echoes:history"
+      }
+    },
+    {
+      "label": {
+        "text": "Threats",
+        "color": "red"
+      },
+      "width": 220,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger e_menu set 5"
+      }
+    },
+    {
+      "label": {
+        "text": "Archive Help",
+        "color": "gray"
+      },
+      "width": 220,
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "echoes:help"
+      }
+    }
+  ]
+}

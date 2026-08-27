@@ -1,0 +1,2 @@
+
+$dialog show @s {type:"minecraft:notice",title:{text:"Expedition Progress",color:"gold",bold:true},body:[{type:"minecraft:plain_message",width:350,contents:{text:"Unique ruin variants discovered: $(disc) / 99\n\n15 — reveal The Warden of Ages\n30 — reveal The Fossil\n40 + Warden defeated + Fossil defeated — trace The Echo\n\nHistory Fragments are optional lore collectibles and do not affect these milestones.",color:"gray"}}]}

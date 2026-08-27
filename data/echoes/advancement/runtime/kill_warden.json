@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wither_skeleton",
+          "nbt": "{Tags:[\"echoes_boss_warden\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "echoes:boss/warden/defeated"
+  }
+}

@@ -1,0 +1,1 @@
+$dialog show @s {type:"minecraft:notice",title:{text:"Threats",color:"red",bold:true},body:[{type:"minecraft:plain_message",width:370,contents:{text:"[UNLOCKED] The Warden of Ages\nEstimated entrance: X $(whx), Z $(whz) (±20)\n\n[LOCKED] The Fossil — discover 30 unique ruin variants.\n[UNKNOWN] The Echo",color:"gray"}}]}

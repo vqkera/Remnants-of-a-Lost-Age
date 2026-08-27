@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": {
+                  "text": "Echo Carapace",
+                  "color": "dark_purple",
+                  "italic": false,
+                  "bold": true
+                },
+                "minecraft:lore": [
+                  {
+                    "text": "The final chamber left one piece of itself behind.",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "minecraft:rarity": "epic",
+                "minecraft:enchantments": {
+                  "minecraft:protection": 3,
+                  "minecraft:thorns": 3,
+                  "minecraft:unbreaking": 3
+                },
+                "minecraft:custom_data": {
+                  "echoes_boss_reward": "echo_chestplate"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

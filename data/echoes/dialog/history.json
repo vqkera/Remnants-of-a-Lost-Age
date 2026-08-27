@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:notice",
+  "title": {
+    "text": "History Archive",
+    "color": "gold",
+    "bold": true
+  },
+  "external_title": {
+    "text": "History Archive"
+  },
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "Fifty History Fragments exist across five eras. They are optional lore collectibles and no longer control boss progression.\n\nFragments can appear in ancient chests and may be carried by Forgotten Scribes. Duplicates are possible. Read and collect them at your own pace.",
+        "color": "gray"
+      },
+      "width": 340
+    }
+  ]
+}

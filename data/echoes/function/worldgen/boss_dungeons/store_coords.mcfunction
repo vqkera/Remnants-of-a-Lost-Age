@@ -1,0 +1,10 @@
+execute store result storage echoes:world wx int 1 run scoreboard players get #wx e_world
+execute store result storage echoes:world wz int 1 run scoreboard players get #wz e_world
+execute store result storage echoes:world fx int 1 run scoreboard players get #fx e_world
+execute store result storage echoes:world fz int 1 run scoreboard players get #fz e_world
+execute store result storage echoes:world ex int 1 run scoreboard players get #ex e_world
+execute store result storage echoes:world ez int 1 run scoreboard players get #ez e_world
+execute store result storage echoes:world whx int 1 run scoreboard players get #whx e_world
+execute store result storage echoes:world whz int 1 run scoreboard players get #whz e_world
+execute store result storage echoes:world fhx int 1 run scoreboard players get #fhx e_world
+execute store result storage echoes:world fhz int 1 run scoreboard players get #fhz e_world

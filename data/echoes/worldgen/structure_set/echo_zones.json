@@ -1,0 +1,50 @@
+{
+  "structures": [
+    {
+      "structure": "echoes:giant_crater",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:charred_forest",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:shattered_mountain",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:dead_zone",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:petrified_grove",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:drained_basin",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:mineral_scar",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:mass_grave",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:burned_village",
+      "weight": 1
+    },
+    {
+      "structure": "echoes:ancient_battlefield",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 26,
+    "separation": 11,
+    "salt": 17392113
+  }
+}

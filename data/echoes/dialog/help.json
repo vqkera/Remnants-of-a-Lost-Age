@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:notice",
+  "title": {
+    "text": "Archive Help",
+    "color": "dark_aqua",
+    "bold": true
+  },
+  "external_title": {
+    "text": "Archive Help"
+  },
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "Explore the Overworld and enter Remnants structures. Every distinct ruin variant you discover counts once toward expedition progress.\n\n15 discovered variants reveal the Warden of Ages. 30 reveal The Fossil. At 40, The Echo can be traced only after both earlier bosses are defeated.\n\nHistory Fragments are optional lore collectibles. At night, ordinary ruins can awaken one Ancient descendant; Forgotten Scribes may carry a Fragment.\n\nBoss coordinates are clues, not teleport buttons. Once a threat is unlocked, its surface seal grants access to the underground complex.",
+        "color": "gray"
+      },
+      "width": 350
+    }
+  ]
+}
